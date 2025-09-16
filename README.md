@@ -1,4 +1,4 @@
-# 🌐 LinkSphere – WhatsApp Link Hub
+# 🌐 LINKS WEB by ANICADE – WhatsApp Link Hub
 
 Welcome to **LinkSphere**, the ultimate hub for discovering and sharing WhatsApp links by **ANICADE**.  
 Whether it’s communities, groups, or channels — this is the place where WhatsApp links live.
